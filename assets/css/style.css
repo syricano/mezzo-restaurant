@@ -7,3 +7,9 @@ body{
 .accordion-item{
     display: inline;
 }
+.col-4 {
+    display: flex;
+}
+h1{
+    font-size: 2em;
+}
